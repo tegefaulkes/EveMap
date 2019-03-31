@@ -1,0 +1,16 @@
+{
+  "name": "untitled1",
+  "version": "0.0.0",
+  "private": true,
+  "main": "../untitled1/app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "d3": "^5.9.2",
+    "express": "^4.16.0",
+    "md5": "^2.2.1",
+    "sqlite3": "^4.0.6"
+  }
+}
